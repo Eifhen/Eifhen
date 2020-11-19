@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there!, I'm Gabriel Jiménez.
 
-<!--
-**Eifhen/Eifhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 i'm currently working as a Freelancer.
+- 🌱 i'm currently working on improve my abilities with CSS and JavaScript. 
+- 💬 you can ask me about: C#, Sql Server, CSS ,PhP, JavaScript.
+- 📫 my email address is Jimenezg905@gmail.com you can contact me there.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About Me
+If you like :books: books, :chess_pawn: chess, :hourglass: philosophy, 	:mage: myths and legends,  
+you can talk to me about those topics, i'm very passionate about them.
+
+### My Favorites Programming Lenguages
+C#, JavaScript, Php.
