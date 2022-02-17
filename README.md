@@ -3,7 +3,7 @@
 - 🔭 i'm currently working as a Freelancer.
 - 🌱 i'm currently working on improve my abilities with CSS and JavaScript. 
 - 💬 you can ask me about: C#, Sql Server, CSS ,PhP, JavaScript.
-- 📫 my email address is Jimenez 905@gmail.com or Jimenez 905@protonmail.com you can contact me at any of those email addresses 
+- 📫 my email address is jimenez905@gmail.com or jimenez905@protonmail.com you can contact me at any of those email addresses 
 
 
 
