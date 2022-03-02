@@ -12,4 +12,4 @@ If you like :books: books, :chess_pawn: chess, :hourglass: philosophy, 	:mage: m
 you can talk to me about those topics, i'm very passionate about them.
 
 ### My Favorites Programming Lenguages
-C#, JavaScript, Php.
+C#, JavaScript.
