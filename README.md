@@ -15,7 +15,7 @@ you can talk to me about those topics, i'm very passionate about them.
 C#, JavaScript.
 
 <div>
-    <img src="https://github.com/Eifhen/Eifhen/assets/49046521/379236e3-4de6-483b-963e-cb89c53cfd5f" />
+
     ![logo](https://github.com/Eifhen/Eifhen/assets/49046521/379236e3-4de6-483b-963e-cb89c53cfd5f#logo, "logo")
 </div>
 
