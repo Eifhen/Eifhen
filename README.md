@@ -1,6 +1,6 @@
 ### Hi there!, I'm Gabriel Jiménez.
 
-- 🔭 Software Engineer, Camsoft SRL.
+- 🔭 Software Developer, Camsoft SRL.
 - 💬 you can ask me about: C#, Sql Server, CSS ,PhP, JavaScript.
 - 📫 my email address is jimenez905@gmail.com or jimenez905@protonmail.com you can contact me at any of those email addresses 
 
