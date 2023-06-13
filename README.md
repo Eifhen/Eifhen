@@ -17,7 +17,7 @@ C#, JavaScript.
 
 
 <div align="center">
-  <img src="https://github.com/Eifhen/Eifhen/assets/49046521/5d716e4f-4c9b-45b4-9e9a-6ee164c414bb" />
+  <img src="https://github.com/Eifhen/Eifhen/assets/49046521/3188068d-ac4a-4b2b-8947-2fd1d3c5d5eb" />
 </div>
 
 
