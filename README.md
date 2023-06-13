@@ -16,8 +16,8 @@ C#, JavaScript.
 
 
 
-<p align="center">
+<div align="center">
   ![image](https://github.com/Eifhen/Eifhen/assets/49046521/2457dbdc-b5f7-4705-981b-96f556104aca)
-</p>
+</div>
 
 
