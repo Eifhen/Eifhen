@@ -15,7 +15,9 @@ you can talk to me about those topics, i'm very passionate about them.
 C#, JavaScript.
 
 <div style={
-    border-radius: 35px; width: 100%; 
+    height: 200px;
+    width: 100%;
+    border-radius: 35px; 
     background-image:url("https://github.com/Eifhen/Eifhen/assets/49046521/379236e3-4de6-483b-963e-cb89c53cfd5f");
   }>
 </div>
