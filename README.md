@@ -24,3 +24,14 @@ C#, JavaScript.
 </style>
 
 ![image](https://github.com/Eifhen/Eifhen/assets/49046521/2457dbdc-b5f7-4705-981b-96f556104aca#logo)
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+          h1 { color: red;}
+      </style>
+      <h1> Hello </h1>
+    </div>
+  </foreignObject>
+</svg>
