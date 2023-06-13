@@ -14,8 +14,5 @@ you can talk to me about those topics, i'm very passionate about them.
 ### My Favorites Programming Lenguages
 C#, JavaScript.
 
-<div>
 
-    ![logo](https://github.com/Eifhen/Eifhen/assets/49046521/379236e3-4de6-483b-963e-cb89c53cfd5f "logo")
-</div>
-
+![image](https://github.com/Eifhen/Eifhen/assets/49046521/2457dbdc-b5f7-4705-981b-96f556104aca#logo)
