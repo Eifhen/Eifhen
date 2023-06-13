@@ -14,17 +14,10 @@ you can talk to me about those topics, i'm very passionate about them.
 ### My Favorites Programming Lenguages
 C#, JavaScript.
 
-<style>
-  img[src$="#logo"] {
-    width: 100%;
-    object-fit: cover;
-    object-position: center;
-    border-radius: 35px;
-  }
-</style>
 
-<pre align="center">
-  ![image](https://github.com/Eifhen/Eifhen/assets/49046521/2457dbdc-b5f7-4705-981b-96f556104aca#logo)
-</pre>
+
+<p align="center">
+  ![image](https://github.com/Eifhen/Eifhen/assets/49046521/2457dbdc-b5f7-4705-981b-96f556104aca)
+</p>
 
 
